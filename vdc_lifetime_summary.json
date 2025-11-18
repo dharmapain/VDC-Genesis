@@ -1,0 +1,11 @@
+{
+    "total_kcal": 1317977.08,
+    "total_joules": 5514416099,
+    "lifetime_vdc": 5238.6952936057,
+    "total_distance_meters": 1942955.54,
+    "total_distance_km": 1942.96,
+    "max_speed_mps": 112.941,
+    "max_speed_kmh": 406.59,
+    "vfs01_anomalies_detected": 3114,
+    "gpx_workouts_processed": 732
+}

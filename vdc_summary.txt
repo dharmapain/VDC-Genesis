@@ -1,0 +1,9 @@
+LIFETIME VDC SUMMARY (Council Verified)
+══════════════════════════════════════
+Total Active kcal      : 1,317,977.08
+Total Joules           : 5,514,416,099
+GENESIS VDC BALANCE    : 5,238.6952936057
+Total Distance         : 1,942.96 km
+Max Speed Ever         : 112.94 m/s (406.6 km/h)
+VFS-01 Anomalies       : 3114
+GPX Workouts           : 732
